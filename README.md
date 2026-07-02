@@ -9,7 +9,6 @@ and incident investigation — hands-on, not just theory.
 - Hypervisor: VMware Workstation / VirtualBox
 
 - Machines: Kali Linux (attacker), Windows 10 (victim/endpoint),
-
   Metasploitable 2 (vulnerable target), Android VM
 
 - Network: isolated host-only lab network
@@ -26,11 +25,7 @@ and incident investigation — hands-on, not just theory.
 
 ## Sample investigation
 
-Malware analysis & incident response exercise: identified the C&C server from
-
-packet captures, located registry persistence, and decrypted a
-
-ransomware-encrypted file to recover the flag.
+Malware analysis & incident response exercise: identified the C&C server from packet captures, located registry persistence, and decrypted a ransomware-encrypted file to recover the flag.
 
 ## Roadmap
 
