@@ -1,8 +1,6 @@
 # SOC Home Lab
 
-A virtual security-operations lab I built to practice detection, monitoring
-
-and incident investigation — hands-on, not just theory.
+A virtual security-operations lab I built to practice detection, monitoring and incident investigation — hands-on, not just theory.
 
 ## Environment
 
