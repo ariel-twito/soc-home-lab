@@ -17,17 +17,11 @@ and incident investigation — hands-on, not just theory.
 ## What I practice here
 
 | Area | Tools | Examples |
-
 |------|-------|----------|
-
 | Traffic analysis | Wireshark | Following TCP streams, spotting C2 beacons, MITM artifacts |
-
 | Scanning & recon | Nmap | Service/version detection, scan-type comparison from the defender's side |
-
 | Log monitoring | Splunk | Ingesting Windows/Linux logs, writing searches, alert triage |
-
 | File analysis | VirusTotal | Static checks on suspicious samples |
-
 | Attack simulation | Metasploit, Burp Suite | Exploiting Metasploitable, then finding the traces in logs |
 
 ## Sample investigation
